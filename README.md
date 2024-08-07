@@ -1,5 +1,5 @@
 
-A new Flutter project.
+A clone spotify music with MVMM architecture.
 
 ## Getting Started
 
